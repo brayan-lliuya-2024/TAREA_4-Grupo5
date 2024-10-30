@@ -6,7 +6,7 @@ Integrantes:
 - Cerda Rioja, Lorena
 - Lliuya Saldaña, Brayan
 
-Se generaron mapas y se probaron algunas funciones previamente a la resolución de los ejercicios.
+Se generaron mapas y se probaron algunas funciones previamente a la resolución de los ejercicios. Link pagina web: https://brayan-lliuya-2024.github.io/TAREA_4-Grupo5/
 
 EJERCICIO 1
 

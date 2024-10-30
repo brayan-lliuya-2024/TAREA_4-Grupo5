@@ -10,15 +10,21 @@ Se generaron mapas y se probaron algunas funciones previamente a la resolución 
 
 EJERCICIO 1
 Se reproyecto el mapa de Japón (CRS).
+
 Se estableció un centroide para Japón.
+
 Se generó un mapa de ciudades para Japón.
+
 Se exportaron conjuntamente las capas antes mencionadas de Japón.
 
 EJERCICIO 2
+
 Se graficaron puntos representativos de aeropuertos de Japón, partiendo de data mundial.
+
 Se exportaron los mapas de Japón y de sus aeropuertos conjuntamente.
 
 EJERCICIO 3
+
 Se comprobó la geometría de Japón, se establecieron los límites y se convirtió a GDF.
 
 EJERCICIO 4
